@@ -28,4 +28,7 @@ This version uses transparent, rule-based heuristics. It is **not a trained AI m
 AI + Cybersecurity (select this track only if the final project aligns with the event prompt).
 
 ## Team
-Add the actual team members and contributions before submission.
+PAVITHRA U
+NIVETHA R
+MAHIMA
+NETHRA B
